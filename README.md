@@ -4,6 +4,12 @@ Easy to use artificial neural network library in Python based from Keras library
 
 
 
+```shell
+pip install artificial-neural-network
+```
+
+
+
 ## Example
 
 The example below creates an artificial neural network.
